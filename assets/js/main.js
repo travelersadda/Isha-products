@@ -1,5 +1,5 @@
 /* ==========================================================================
-   Isha Products — Site Interactions & Motion
+   Isha Products â€” Site Interactions & Motion
    ========================================================================== */
 
 (function () {
@@ -341,7 +341,7 @@
     });
   }
 
-  /* ---------------- Forms → WhatsApp lead capture ---------------- */
+  /* ---------------- Forms â†’ WhatsApp lead capture ---------------- */
   function initForms() {
     const forms = document.querySelectorAll('form[data-lead-form]');
     forms.forEach((form) => {
